@@ -1,9 +1,10 @@
 {
   "name": "@geut/permanent-seeder",
   "version": "0.0.1",
-  "description": "Permanent Seeder cli",
+  "description": "Permanent Seeder CLI",
   "keywords": [
     "seeder",
+    "cli",
     "geut"
   ],
   "homepage": "https://github.com/geut/permanent-seeder#readme",
