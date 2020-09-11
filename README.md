@@ -81,6 +81,7 @@ save_stats = true
 ```
 $ permanent-seeder start
 ```
+
 Bootstrap a Permanent Seeder instance that will keep up running in the background. If you change settings, you will need to call `start` command again.
 
 ### Status
