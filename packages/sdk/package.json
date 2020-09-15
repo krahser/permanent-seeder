@@ -33,9 +33,9 @@
     ]
   },
   "dependencies": {
-    "@geut/permanent-seeder-core": "^0.0.1",
-    "@geut/permanent-seeder-dashboard": "^0.0.1",
-    "@geut/permanent-seeder-database": "^0.0.1",
+    "@geut/permanent-seeder-core": "file:.yalc/@geut/permanent-seeder-core",
+    "@geut/permanent-seeder-dashboard": "file:.yalc/@geut/permanent-seeder-dashboard",
+    "@geut/permanent-seeder-database": "file:.yalc/@geut/permanent-seeder-database",
     "compression": "^1.7.4",
     "deep-equal": "^2.0.3",
     "got": "^11.5.0",

@@ -1,0 +1,15 @@
+{
+  "version": "v1",
+  "packages": {
+    "@geut/permanent-seeder-sdk": {
+      "signature": "376dbd4ef21319bd4f3b2cc6e5f8f68b",
+      "file": true,
+      "replaced": "^0.0.1"
+    },
+    "@geut/permanent-seeder-database": {
+      "signature": "4f5366bd12285858a8c170a96ee05d1e",
+      "file": true,
+      "replaced": "^0.0.1"
+    }
+  }
+}

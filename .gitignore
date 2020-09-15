@@ -72,4 +72,9 @@ permanent-seeder.toml
 # shrinkwrap
 npm-shrinkwrap.json
 
+# yalc
+*/**/.yalc
+
+# pack
 packages/cli/tmp
+packages/cli/dist
